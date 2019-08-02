@@ -1,0 +1,35 @@
+{
+  "name": "luiscarbonell.github.io",
+  "version": "1.0.0",
+  "description": "Luis Ernesto Carbonell's Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscarbonell/luiscarbonell.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "luis",
+    "carbonell",
+    "blog",
+    "resume"
+  ],
+  "author": "Luis Carbonell <luiscarbonell5683@gmail.com> (https://luiscarbonell.com)",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/luiscarbonell/luiscarbonell.github.io/issues"
+  },
+  "homepage": "https://github.com/luiscarbonell/luiscarbonell.github.io#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "buefy": "^0.7.8"
+  }
+}
