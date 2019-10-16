@@ -19,7 +19,7 @@ Luis Carbonell's Website
 * [1Million Cups](https://www.1millioncups.com/miami/presentations/liquid-carrot-25844)
 * [Fast Forward - Accelerate Good](https://www.ffwd.org/tech-nonprofits/s/liquid-carrot/)
 * [El Nuevo Herald](https://www.elnuevoherald.com/opinion-es/article227682859.html)
-* [España Exportacíon e Inversiones](/Spanish\ Embassy\ -\ eMerge\ Americas\ -\ Dossier.pdf)
+* [España Exportacíon e Inversiones](/Spanish%20Embassy%20-%20eMerge%20Americas%20-%20Dossier.pdf)
 * [MDC News Clippings](http://www.mdc.edu/clippings/2019/March/14.PDF)
 * [Pika.dev](https://www.pika.dev/npm/@liquid-carrot/nn)
 * [CourseChunks](https://app.coursechunks.com/en/chunks/2644)
